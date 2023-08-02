@@ -1,1 +1,1 @@
-FTC RC CAR
+FTC Remote Control Car
